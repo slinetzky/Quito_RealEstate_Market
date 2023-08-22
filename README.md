@@ -3,4 +3,4 @@ This project analyzes the residential housing market in Quito between 2021 and 2
 
 SQL code is used first to clean data, R code is used afterwards. SQL code first, R later.
 
-Analysis, graphs and detailed explanations are contained in the pdf report.
+Analysis, graphs and detailed explanations are contained in the pdf presentation report.
